@@ -140,8 +140,8 @@
     "unlock": {
         "btn_unlock": "unlock",
         "caps_lock_on": "Caps Lock is on!",
-        "desc_title": "the future of banking",
-        "desc_content_1": "BitShares is a global community using a distributed application to produce the best money in the world.",
+        "desc_title": "Because real money sparkles!",
+        "desc_content_1": "Sparkle is a decentralized exchange that with fully collateralized deposits.",
         "desc_content_2": "",
         "wrong_pass": "Wrong Password."
     },
@@ -151,7 +151,7 @@
         "create_wallet": "Create Wallet"
     },
     "index": {
-        "title": "BitShares Wallet",
+        "title": "Sparkles",
         "overview": "Overview",
         "my_account": "My Accounts",
         "directory": "Directory",
@@ -378,7 +378,7 @@
     },
     "privacy": {
         "email_warning1": "Your email address is only used for the purpose of identifying your",
-        "email_warning2": "account which can be tied to your BitShares account.  This helps you and others verify that your transactions are sending funds to the expected individual. ",
+        "email_warning2": "account which can be tied to your Sparkles account.  This helps you and others verify that your transactions are sending funds to the expected individual. ",
         "email_warning3": "Your email is not shared with anyone and no one will be able to send you spam. "
     },
     "directory": {
